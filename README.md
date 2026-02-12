@@ -1,15 +1,5 @@
 # Theft-Detection 
 
-## DISCLAIMER:
-Accuracy of activity captioning is low. You have to work on that!!
-
-### Intruder without mask.
-![result](image6.jpeg)
-
-### Intruder with mask.
-![result](image7.jpeg)
-
-
 Theft is the most common crime committed across the world. According to the National Crime Records Bureau (NCRB), ~80% of the criminal cases are related to theft as shown in figure. Increasing theft rates cause people to suffer both financially and emotionally. Therefore, there is a need to develop a more deterrent surveillance system, which is convenient to use, free from false alarms, minimize human interference, and cost-effective.
        
 ![figur 1](chart.png)
